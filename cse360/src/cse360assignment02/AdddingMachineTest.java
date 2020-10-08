@@ -6,8 +6,7 @@ public class AdddingMachineTest {
 		myCalculator.add(4);
 		myCalculator.subtract(2);
 		myCalculator.add(5);
-		System.out.println("Total : " + myCalculator.getTotal());
-		
+
 		System.out.println(myCalculator.toString());
 		
 	}
